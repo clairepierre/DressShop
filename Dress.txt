@@ -1,0 +1,10 @@
+S,Red,150,3,https://www.pinterest.com/pin/491173903096396967/
+S,Green,185,4,https://www.pinterest.com/pin/491173903096382343/
+S,Pink,600,2,https://www.pinterest.com/pin/491173903085089083/
+M,Burgundy,100,4,https://www.pinterest.com/pin/491173903089888407/
+L,Black,175,3,https://www.pinterest.com/pin/491173903096382341/
+M,Blue,100,14,https://www.pinterest.com/pin/491173903096880051/
+M,White,400,5,https://www.pinterest.com/pin/491173903089779524/
+S,White with flowers,800,2,https://www.pinterest.com/pin/491173903083114910/
+M,Grey,15000,1,https://www.pinterest.com/pin/491173903083114830/
+L,Black,250,3,https://www.pinterest.com/pin/491173903097333898/
